@@ -15,23 +15,31 @@ Techpreneur , Fullstack Developer , Product Developer and Mentor
  </p>-->
 
 <p align="center">
+  <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="ionic" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="ionic" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/A/angular-logo-CF8B6B5B10-seeklogo.com.png" alt="angular" width="40" height="40"/>
+  <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://upload.vectorlogo.zone/logos/laravel/images/fd9bffa7-873e-4946-92bc-815ed69faeec.svg" alt="laravel" width="40" height="40"/>
+   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="ionic" width="40" height="40"/>
+  
+</p>  
+<p align="center">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="ionic" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="ionic" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/balsamiq/balsamiq-ar21.svg" alt="ionic" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/ampproject/ampproject-ar21.svg" alt="ionic" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="ionic" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="ionic" width="40" height="40"/>
+
+ 
  <img src="https://www.vectorlogo.zone/logos/codepen/codepen-ar21.svg" alt="ionic" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="ionic" width="40" height="40"/>
+ 
  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="ionic" width="40" height="40"/>
  
   <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="ionic" width="40" height="40"/>
   <!--<img src="https://seeklogo.com/images/A/angular-logo-CF8B6B5B10-seeklogo.com.png" alt="angular" width="40" height="40"/>-->
-  <!--<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>-->
-  <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40"/>  
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> 
+  <!--<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>--> 
+  <!--<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> -->
   
-  <img src="https://upload.vectorlogo.zone/logos/laravel/images/fd9bffa7-873e-4946-92bc-815ed69faeec.svg" alt="laravel" width="40" height="40"/>
+  
   
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> 
  </p>
