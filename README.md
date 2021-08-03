@@ -13,13 +13,10 @@ Techpreneur , Fullstack Developer , Product Developer and Mentor
  
  <p align="center">
   <a href="https://www.linkedin.com/in/profoj/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedIn" width="80" height="80"/>
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedIn" width="40" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/profoj/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" width="80" height="80"/>
-  </a>
-  <a href="https://www.linkedin.com/in/profoj/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" width="80" height="80"/>
+  <a href="https://twitter.com/profoj_" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" width="40" height="40"/>
   </a>
  </p>
 
@@ -35,13 +32,9 @@ Techpreneur , Fullstack Developer , Product Developer and Mentor
 </p>  
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="ionic" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="ionic" width="40" height="40"/>
-
- 
- <img src="https://www.vectorlogo.zone/logos/codepen/codepen-ar21.svg" alt="ionic" width="60" height="40"/>
- 
- <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="ionic" width="60" height="40"/>
- 
+  <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="ionic" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/codepen/codepen-ar21.svg" alt="ionic" width="60" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="ionic" width="60" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="ionic" width="40" height="40"/>
   <!--<img src="https://seeklogo.com/images/A/angular-logo-CF8B6B5B10-seeklogo.com.png" alt="angular" width="40" height="40"/>-->
   <!--<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>--> 
@@ -71,12 +64,11 @@ Techpreneur , Fullstack Developer , Product Developer and Mentor
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on WiredTutor & Ayaresa
+- 🌱 I’m currently learning Blockchain
+- 👯 I’m looking to collaborate on edtech and health-tech projects
+- 🤔 I’m looking for help with Project Management
+- 💬 Ask me about Software Development
+- 📫 How to reach me: odoijoshua55@gmail.com
+- ⚡ Fun fact: I play the keyboard.
 -->
