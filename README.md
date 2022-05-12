@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://profoj.github.io/img/profoj.png" alt="ionic" width="40" height="40"/>  
+  <img src="https://profoj.github.io/img/profoj.png" alt="ionic" width="60" height="60"/>  
 </p>
 <h1 align="center">
 Hi There 👋 <br> 
-This is Joshua Odoi
+I am ProfOJ
 </h1>
 
 <h3 align="center">
@@ -13,7 +13,7 @@ Techpreneur , Fullstack Developer , Product Developer and Mentor
  
  <p align="center">  
 <h3 align="center"><b>Languages and Tools<b>
-<br>
+<br><br>
 <img src="https://user-images.githubusercontent.com/87319921/131159583-60be0f3d-d25f-463f-a632-75f8f37417d1.png" width="50" height="50">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50" height="50">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="50" height="50">
@@ -38,7 +38,7 @@ Techpreneur , Fullstack Developer , Product Developer and Mentor
   
 <p align= "center">
  <b>Let's Connect 📫</b>
- <br>
+ <br><br>
 <a href="https://www.linkedin.com/in/profoj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="mailto:odoijoshua55@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="https://twitter.com/profoj_"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"></a>
